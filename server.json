@@ -1,44 +1,52 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Landing page",
+      "price": 3000,
+      "category": "Job",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
-      "createdAt": "2022-07-29T19:36:44.505Z"
+      "createdAt": "2022-11-03T17:34:09.327Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "description": "Hamburguer",
+      "description": "Conta de agua",
+      "price": 200,
+      "category": "Contas a pagar",
       "type": "outcome",
-      "category": "Alimentação",
-      "price": 60,
-      "createdAt": "2022-07-30T22:24:44.505Z"
+      "createdAt": "2022-10-23T17:34:26.524Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "description": "Conta de Luz",
+      "description": "Conta de luz",
+      "price": 300,
+      "category": "Contas a pagar",
       "type": "outcome",
-      "category": "Contas",
-      "price": 369,
-      "createdAt": "2022-08-23T22:24:44.505Z"
+      "createdAt": "2022-10-12T17:34:45.987Z",
+      "id": 3
     },
     {
-      "description": "conta de agua",
-      "price": 322,
-      "category": "conta",
-      "type": "outcome",
-      "createdAt": "2022-10-31T17:03:08.818Z",
+      "description": "Website",
+      "price": 8000,
+      "category": "Job",
+      "type": "income",
+      "createdAt": "2022-10-28T17:37:32.224Z",
       "id": 4
     },
     {
-      "description": "Landing page",
-      "price": 2500,
-      "category": "Venda",
-      "type": "income",
-      "createdAt": "2022-10-31T17:34:23.811Z",
+      "description": "Hamburguer",
+      "price": 45,
+      "category": "Lanches",
+      "type": "outcome",
+      "createdAt": "2022-11-05T17:41:27.690Z",
       "id": 5
+    },
+    {
+      "description": "COmpra de roupas",
+      "price": 800,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2022-11-01T17:41:57.274Z",
+      "id": 6
     }
   ]
 }
